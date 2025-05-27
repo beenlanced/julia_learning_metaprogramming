@@ -1,4 +1,4 @@
-# Introduction To Metaprogramming
+# Introduction to Metaprogramming
 
 <div align="center">
     <img alt="Julia Meta Programming" src="./metaprogramming.jpg" width="60%" height="180">
